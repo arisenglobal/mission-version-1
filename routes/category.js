@@ -7,7 +7,7 @@ const Hyperbee = require("hyperbee")
 const ram = require("random-access-memory")
 const { once } = require("events");
 
-const KEY = 'afe206fa1d8132889d5f1400b9bd6acdacb526ab15e49bc96fced4e85d3d154b'
+const KEY = '4d0d55d4a96e55f4f271c316e1e658e96871de1810621ed8fe9897f03c314594'
 
 let category;
 
